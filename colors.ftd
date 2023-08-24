@@ -36,11 +36,11 @@ dark: #A0A0A0
 
 -- ftd.color text-:
 light: #222222
-dark: #222222
+dark: #D9D9D9
 
 -- ftd.color text-strong-:
 light: #114A2C
-dark: #114A2C
+dark: #FFFFFF
 
 -- ftd.color shadow-:
 light: #EEEEEE
